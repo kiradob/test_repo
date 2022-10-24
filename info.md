@@ -9,3 +9,9 @@
 * git clone <url-адрес репозитория> – клонирование внешнего репозитория на  локальный ПК
 * git pull – получение изменений и слияние с локальной версией
 * git push – отправляет локальную версию репозитория на внешний
+
+# Синтаксис языка Markdown
+
+Справочник по Markdown от Microsoft:
+
+(https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
